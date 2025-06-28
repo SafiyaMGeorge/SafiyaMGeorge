@@ -97,6 +97,38 @@
 
 </p>
 
+<h3 align="left">💫 Projects:</h3>
+<p align="center">
+
+  <details>
+    <summary>Development</summary>
+    <br />
+       <table width="100%">
+    <tr>
+      <th>Project</th>
+      <th>Description</th>
+    </tr>
+    <tr>
+      <td><a href="https://visual-sort-pink.vercel.app/">Visual Sort</a></td>
+      <td>Visual Sort is a web-based sorting algorithm visualization tool built using HTML, CSS, Bootstrap, SCSS, and JavaScript. This project provides an interactive way to visualize various sorting algorithms in action, helping users understand how different algorithms work and their efficiency in sorting data.</td>
+    </tr>
+  </table>
+  </details>
+    <details>
+    <summary>Design</summary>
+      <br />
+       <table width="100%">
+    <tr>
+      <th>Project</th>
+      <th>Description</th>
+    </tr>
+    <tr>
+      <td><a href="https://visual-sort-pink.vercel.app/">Visual Sort</a></td>
+      <td>Visual Sort is a web-based sorting algorithm visualization tool built using HTML, CSS, Bootstrap, SCSS, and JavaScript. This project provides an interactive way to visualize various sorting algorithms in action, helping users understand how different algorithms work and their efficiency in sorting data.</td>
+    </tr>
+  </table>
+  </details>
+</p>
 
 <h3 align="left">🏆 GitHub Trophies</h3>
 
