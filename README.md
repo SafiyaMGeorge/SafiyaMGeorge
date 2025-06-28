@@ -107,3 +107,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=safiyamgeorge&show_icons=true&locale=en&layout=compact&theme=radical" alt="safiyamgeorge" /></p>
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=safiyamgeorge&theme=radical" alt="safiyamgeorge" /></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" alt="Footer"/>
+</p>
