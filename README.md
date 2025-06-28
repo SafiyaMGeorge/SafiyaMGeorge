@@ -1,9 +1,10 @@
 [![Master Head](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://safiyamgeorge.github.io/SMGDev/)
 <h1 align="center">Hi 👋, I'm Safiya George</h1>
 <h3 align="center">JUNIOR FRONT-END DEVELOPER | UI/UX DESIGNER | PROBLEM SOLVER</h3>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 <img align="right" alt = "Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
-<h3 align="left">ABOUT ME</h4>
+<h3 align="left">💫 ABOUT ME:</h4>
 - 🔭 I’m currently working on **Saber Comics portfolio website**
 
 - 🌱 I’m currently learning **React.js and netlify cms**
@@ -14,17 +15,18 @@
 
 - ⚡ Fun fact **Books/Airports/Beaches and Traveling are my Happy Places**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=safiyamgeorge" alt="safiyamgeorge" /></a> </p>
+<br />
 
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/smgdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="smgdev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/safiya-george" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/safiya-george" height="30" width="40" /></a>
 <a href="https://codesandbox.com/safiyamgeorge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="safiyamgeorge" height="30" width="40" /></a>
 </p>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<br />
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><strong> Skills:</strong>
 
 <p align="center">
 
@@ -94,5 +96,9 @@
 </details>
 
 </p>
+
+
+<h3 align="left">🏆 GitHub Trophies</h3>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=safiyamgeorge&theme=dracula&no-frame=false&no-bg=false&margin-w=4" alt="safiyamgeorge" /></a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=safiyamgeorge&show_icons=true&locale=en&layout=compact" alt="safiyamgeorge" /></p>
