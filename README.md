@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 <img align="right" alt = "Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
-<h3 align="left">💫 ABOUT ME:</h4>
+<h3 align="left">💫 ABOUT ME:</h3>
 - 🔭 I’m currently working on **Saber Comics portfolio website**
 
 - 🌱 I’m currently learning **React.js and netlify cms**
@@ -99,6 +99,11 @@
 
 
 <h3 align="left">🏆 GitHub Trophies</h3>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=safiyamgeorge&theme=dracula&no-frame=false&no-bg=false&margin-w=4" alt="safiyamgeorge" /></a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=safiyamgeorge&show_icons=true&locale=en&layout=compact" alt="safiyamgeorge" /></p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=safiyamgeorge&theme=radical" alt="safiyamgeorge" /></a> </p>
+
+<h3 align="left">📊 Github Stats:</h3>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=safiyamgeorge&show_icons=true&locale=en&layout=compact&theme=radical" alt="safiyamgeorge" /></p>
+
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=safiyamgeorge&theme=radical" alt="safiyamgeorge" /></p>
