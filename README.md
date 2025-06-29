@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Safiya George</h1>
 <h3 align="center">JUNIOR FRONT-END DEVELOPER | UI/UX DESIGNER | PROBLEM SOLVER</h3>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-<img align="right" alt = "Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<img align="right" alt="coding" width="400"  src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif">
+
 
 <h3 align="left">💫 ABOUT ME:</h3>
 - 🔭 I’m currently working on **Saber Comics portfolio website**
@@ -97,6 +98,7 @@
 
 </p>
 
+<!-- project section
 <h3 align="left">💫 Projects:</h3>
 <p align="center">
 
@@ -129,7 +131,7 @@
   </table>
   </details>
 </p>
-
+-->
 <h3 align="left">🏆 GitHub Trophies</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=safiyamgeorge&theme=radical" alt="safiyamgeorge" /></a> </p>
