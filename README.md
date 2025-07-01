@@ -138,13 +138,12 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats: </b>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=safiyamgeorge&show_icons=true&locale=en&layout=compact&theme=radical" alt="safiyamgeorge" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=safiyamgeorge&show_icons=true&locale=en&layout=compact&theme=radical" alt="safiyamgeorge" />
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=safiyamgeorge&theme=radical" alt="safiyamgeorge" /></p>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=safiyamgeorge&theme=radical" alt="safiyamgeorge" />
+</p>
 
 ![snake gif](https://github.com/SafiyaMGeorge/SafiyaMGeorge/blob/output/github-contribution-grid-snake-dark.svg)
-
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" alt="Footer"/>
