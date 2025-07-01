@@ -138,7 +138,7 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats: </b>
 
-<p align="center><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=safiyamgeorge&show_icons=true&locale=en&layout=compact&theme=radical" alt="safiyamgeorge" />
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=safiyamgeorge&show_icons=true&locale=en&layout=compact&theme=radical" alt="safiyamgeorge" />
 
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=safiyamgeorge&theme=radical" alt="safiyamgeorge" />
 </p>
