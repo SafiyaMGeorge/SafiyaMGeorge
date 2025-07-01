@@ -142,7 +142,7 @@
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=safiyamgeorge&theme=radical" alt="safiyamgeorge" /></p>
 
-![snake gif](https://github.com/SafiyaMGeorge/SafiyaMGeorge/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/SafiyaMGeorge/SafiyaMGeorge/blob/output/github-contribution-grid-snake-dark.svg)
 
 
 
